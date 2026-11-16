@@ -1,7 +1,7 @@
 // Personalize this file first. Keep property names unchanged.
 export const profile = {
   name: "Leo",
-  brand: "LEO.DEV",
+  brand: "LeoLoves.dev",
   role: "IT Student & Aspiring Developer",
   location: "Philippines",
   email: "Leomortillero20@gmail.com", // TODO: replace
