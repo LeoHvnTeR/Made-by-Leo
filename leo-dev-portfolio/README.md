@@ -1,30 +1,11 @@
 # LEO.DEV — Personal Developer Portfolio
 
-Multi-page portfolio starter using Vite, HTML, CSS, and vanilla JavaScript. It is configured to deploy to GitHub Pages with GitHub Actions.
-
-## Requirements
-Install Node.js 18 or newer (Node.js 22 is used for the GitHub Pages build).
-
-## Run locally
-```bash
-npm install
-npm run dev
-```
-Open the local URL Vite prints (normally http://localhost:5173).
-
-## Build
-```bash
-npm run build
-npm run preview
-```
-The production files are created in `dist/`.
 
 ## Personalize first
 Edit `src/js/config.js`:
 - Replace the placeholder email and GitHub username.
-- Add your LinkedIn URL if you want one.
 - Edit project descriptions, tags, repository/demo links, and skills so they accurately reflect your work.
-- Put your résumé at `public/resume.pdf` if you want to use that file later.
+- Put your résumé at `public/resume.pdf` if you want to use that file later
 
 ## Deploy to GitHub Pages
 1. Create a GitHub repository. For example, `leo-dev-portfolio`.
